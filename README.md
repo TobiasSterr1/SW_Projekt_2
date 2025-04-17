@@ -1,18 +1,4 @@
-# sw-praktikum-ws23-24-gruppe17
-
-### TEAM 17
-
-![img.png](img.png)
-
-Willi Koljada, 38574  
-Ayhan Cömert, 38415  
-Aniqa Khan, 40339  
-Aboubakar Soumayyah, 39074  
-Tobias Sterr, 40221  
-Benjamin Tok, 36880  
-
 ### Requirements Programms
-- PyCharm
 - Visual Studio Code
 - MySQL Workbench
 
